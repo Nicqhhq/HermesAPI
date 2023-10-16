@@ -1,4 +1,5 @@
 const { Client, Location, List, Buttons, LocalAuth } = require('whatsapp-web.js');
+
 var qrcode = require('qrcode-terminal');
 class ClientWhatsapp {
     constructor() {
@@ -29,6 +30,18 @@ class ClientWhatsapp {
 
         this.client.on('ready', () => {
             console.log('Cliente WhatsApp Pronto');
+            const art = require('ascii-art')
+            art.font("HERMES   API", 'doom', (err, rendered) => {
+                if (err) {
+                    console.log(err)
+                }
+                else {
+                    console.log(rendered)
+                    console.log('By MonteKali | Nícolas Pimenta')
+                    console.log(`Cliente Rodando com o Número ${this.client.info.wid.user} \nNome da conta: ${this.client.info.pushname}`)
+                }
+            });
+
             this.clientUp = true
         });
         this.client.on('disconnected', () => {

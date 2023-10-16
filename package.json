@@ -9,6 +9,7 @@
   "author": "Montekali | Nicolas Pimenta",
   "license": "ISC",
   "dependencies": {
+    "ascii-art": "^2.8.5",
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "puppeteer": "^21.3.8",

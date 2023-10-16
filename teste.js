@@ -1,22 +1,9 @@
-const { Client } = require('whatsapp-web.js');
-
-const client = new Client({
-    puppeteer: { headless: false }
-});
-
-client.on('qr', (qr) => {
-    // Generate and scan this code with your phone
-    console.log('QR RECEIVED', qr);
-});
-
-client.on('ready', () => {
-    console.log('Client is ready!');
-});
-
-client.on('message', msg => {
-    if (msg.body == '!ping') {
-        msg.reply('pong');
+const art = require('ascii-art')
+art.font("HERMES   API", 'doom', (err, rendered) => {
+    if (err) {
+        console.log(err)
+    }
+    else {
+        console.log(rendered)
     }
 });
-
-client.initialize();

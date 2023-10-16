@@ -3,7 +3,6 @@ class sendMessage {
     constructor() {
         this.cliente = new ClientWhatsapp()
     }
-
     enviaMensagem(numero, mensagem) {
         const data = new Date
         return new Promise((resolve, reject) => {
@@ -14,7 +13,6 @@ class sendMessage {
                 }, 10000)
             }
             else {
-                console.log("Cliente Disponivel Enviando mensagem")
                 this.cliente.client.sendMessage(`55${numero}@c.us`, ` ${mensagem}`).then((_) => {
                     resolve(`Mensagem Enviada para o numero : ${numero}`)
                 }).catch((_) => {
