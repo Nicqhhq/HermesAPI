@@ -1,5 +1,3 @@
-2023/10/15-15:06:52.330 8903 Reusing MANIFEST /Users/nicolaspimenta/Documents/GitHub/HermesAPI/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
-2023/10/15-15:06:52.330 8903 Recovering log #3
-2023/10/15-15:06:52.331 8903 Level-0 table #3: started
-2023/10/15-15:06:52.344 8903 Level-0 table #3: 26088 bytes OK
-2023/10/15-15:06:52.352 8903 Delete type=0 #3
+2023/10/16-08:48:58.004 528 Reusing MANIFEST C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/10/16-08:48:58.004 528 Recovering log #3
+2023/10/16-08:48:58.004 528 Reusing old log C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 

@@ -5,9 +5,8 @@ class Middleware {
         this.menssager = new Menssager();
     }
     enviaMensagem(req, res) {
-        const numero = req.query.numero;
-        const mensagem = req.query.mensagem;
-        this.menssager.enviaMensagem(numero, mensagem).then((_) => {
+        const corpo = req.body;
+        this.menssager.enviaMensagem(corpo['numero'], corpo['mensagem']).then((_) => {
             res.status(200).json({ mensagem: _ })
         }).catch((_) => { res.status(400).json({ mensagem: _ }) })
 

@@ -15,7 +15,7 @@ class sendMessage {
             }
             else {
                 console.log("Cliente Disponivel Enviando mensagem")
-                this.cliente.client.sendMessage(`55${numero}@c.us`, `${mensagem} ${data.getHours()}:${data.getMinutes()}:${data.getSeconds()}`).then((_) => {
+                this.cliente.client.sendMessage(`55${numero}@c.us`, ` ${mensagem}`).then((_) => {
                     resolve(`Mensagem Enviada para o numero : ${numero}`)
                 }).catch((_) => {
                     reject(`erro ao enviar mensagem para o numero ${numero} erro: `, _)

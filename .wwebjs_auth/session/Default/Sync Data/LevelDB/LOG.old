@@ -1,3 +1,2 @@
-2023/10/15-14:57:32.241 10207 Reusing MANIFEST /Users/nicolaspimenta/Documents/GitHub/HermesAPI/.wwebjs_auth/session/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/10/15-14:57:32.241 10207 Recovering log #3
-2023/10/15-14:57:32.242 10207 Reusing old log /Users/nicolaspimenta/Documents/GitHub/HermesAPI/.wwebjs_auth/session/Default/Sync Data/LevelDB/000003.log 
+2023/10/16-08:05:21.019 41a4 Creating DB C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\Sync Data\LevelDB since it was missing.
+2023/10/16-08:05:21.051 41a4 Reusing MANIFEST C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\Sync Data\LevelDB/MANIFEST-000001

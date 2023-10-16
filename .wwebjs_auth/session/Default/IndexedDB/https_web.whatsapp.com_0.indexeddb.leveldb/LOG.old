@@ -1,15 +1,3 @@
-2023/10/15-15:05:01.944 a803 Reusing MANIFEST /Users/nicolaspimenta/Documents/GitHub/HermesAPI/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/15-15:05:01.944 a803 Recovering log #276
-2023/10/15-15:05:02.001 a803 Reusing old log /Users/nicolaspimenta/Documents/GitHub/HermesAPI/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000276.log 
-2023/10/15-15:05:13.240 a803 Level-0 table #282: started
-2023/10/15-15:05:13.275 a803 Level-0 table #282: 470705 bytes OK
-2023/10/15-15:05:13.296 a803 Delete type=0 #276
-2023/10/15-15:05:13.303 1f803 Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/10/15-15:05:13.934 a803 Compacting 1@1 + 2@2 files
-2023/10/15-15:05:14.049 a803 Generated table #283@1: 31454 keys, 2194841 bytes
-2023/10/15-15:05:14.136 a803 Generated table #284@1: 38070 keys, 1545883 bytes
-2023/10/15-15:05:14.136 a803 Compacted 1@1 + 2@2 files => 3740724 bytes
-2023/10/15-15:05:14.146 a803 compacted to: files[ 0 0 2 0 0 0 0 ]
-2023/10/15-15:05:14.147 a803 Delete type=2 #282
-2023/10/15-15:05:14.147 a803 Delete type=2 #278
-2023/10/15-15:05:14.147 a803 Delete type=2 #279
+2023/10/16-08:47:14.680 d50 Reusing MANIFEST C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/16-08:47:14.680 d50 Recovering log #226
+2023/10/16-08:47:14.798 d50 Reusing old log C:\Users\nicolas.pimenta\Documents\GitHub\HermesAPI\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000226.log 
