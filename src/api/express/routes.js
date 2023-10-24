@@ -4,7 +4,7 @@ const router = express.Router();
 const Api = require(path.join(__dirname, '..', 'api.js'));
 const api = new Api();
 
-router.post('/v1/hermesapi/enviamenssager', (req, res) => {
+router.post('/v1/hermesapi/enviamensagem', (req, res) => {
     api.enviaMensagem(req, res)
 })
 
