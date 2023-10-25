@@ -5,7 +5,7 @@ class sendMessage {
         return new Promise((resolve, reject) => {
             const options = {
                 method: 'POST',
-                url: api.url + `/v1/messages`,
+                url: api.url + `/messages`,
                 headers: {
                     accept: 'application/json',
                     'D360-Api-Key': api.apikey,
