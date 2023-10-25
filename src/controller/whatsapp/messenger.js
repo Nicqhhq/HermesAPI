@@ -12,23 +12,25 @@ class sendMessage {
                     'content-type': 'application/json'
                 },
                 body: {
+                    "messaging_product": "whatsapp",
+                    "recipient_type": "individual",
                     "to": numero,
                     "type": "template",
                     "template": {
-                        "namespace": "4454ace0_cb05_47dd_b0d7_bac70f735f93",
+                        "name": "pao_fresco",
                         "language": {
-                            "policy": "deterministic",
                             "code": "pt_BR"
                         },
-                        "name": "pao_fresco",
-                        "components": [{
-                            "type": "body",
-                            "parameters": [{
-                                "type": "text",
-                                "text": nome
+                        "components": [
+                            {
+                                "type": "BODY",
+                                "parameters": [
+                                    {
+                                        "type": "TEXT",
+                                        "text": nome
+                                    }
+                                ]
                             }
-                            ]
-                        }
                         ]
                     }
                 },
@@ -41,7 +43,7 @@ class sendMessage {
                 else {
                     console.log(response.statusCode)
                     switch (response.statusCode) {
-                        case 201:
+                        case 200:
                             console.log('Mensagem Enviada')
                             resolve('Mensagem Enviada')
                             break;
