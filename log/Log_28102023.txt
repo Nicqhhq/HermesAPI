@@ -1,0 +1,84 @@
+
+28/10/2023 - 23:30:31 - Usuario atualizado no banco: 
+28/10/2023 - 23:31:11 - Usuario atualizado no banco: 
+28/10/2023 - 23:31:25 - Usuario atualizado no banco: 
+28/10/2023 - 23:31:33 - Usuario atualizado no banco: 
+28/10/2023 - 23:32:13 - Usuario atualizado no banco: 
+28/10/2023 - 23:32:38 - [object Object]
+28/10/2023 - 23:32:55 - Usuario atualizado no banco: 
+28/10/2023 - 23:33:05 - Usuario atualizado no banco: 
+28/10/2023 - 23:33:28 - Usuario atualizado no banco: 
+28/10/2023 - 23:34:02 - Erro ao atualizar usuario no banco: 
+28/10/2023 - 23:34:13 - Usuario atualizado no banco: 
+28/10/2023 - 23:34:24 - Usuario atualizado no banco: 
+28/10/2023 - 23:34:24 - Erro ao atualizar usuario no banco: 
+28/10/2023 - 23:34:30 - Usuario atualizado no banco: 
+28/10/2023 - 23:36:54 - Usuario atualizado no banco: 
+28/10/2023 - 23:37:23 - Usuario atualizado no banco: 24horasdodia@gmail.com.tv
+28/10/2023 - 23:37:40 - Usuario atualizado no banco: Nícolas
+28/10/2023 - 23:37:54 - Usuario atualizado no banco: 4
+28/10/2023 - 23:38:18 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:40:31 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:40:53 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:40:56 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:41:08 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:41:12 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:41:32 - erro ao inserir usuario no banco: PrismaClientValidationError: 
+Invalid `prisma.contatos.create()` invocation in
+/Users/nicolaspimenta/Documents/GitHub/HermesAPI/src/database/controller/controllercontatos.js:30:35
+
+  27 async InsertContato(parametros) {
+  28     const { nome, email, numero, unidade } = parametros;
+  29     return new Promise(async (resolve, reject) => {
+→ 30         await prisma.contatos.create({
+               data: {
+                 contato_email: "24horasdodia@gmail.com.tv",
+                 contato_numero: undefined,
+                 contato_unidade: undefined,
+                 contato_ativo: true,
+             +   contato_nome: String
+               }
+             })
+
+Argument `contato_nome` is missing.
+28/10/2023 - 23:41:51 - Usuario atualizado no banco: ID:4 NOME:Nícolas
+28/10/2023 - 23:50:37 - Usuario atualizado no banco: ID: 4 NOME: Nícolas
+28/10/2023 - 23:50:37 - erro ao inserir log no banco: PrismaClientValidationError: 
+Invalid `prisma.log.create()` invocation in
+/Users/nicolaspimenta/Documents/GitHub/HermesAPI/src/database/controller/controllerlogs.js:28:30
+
+  25 async InsertLog(parametros) {
+  26     const { tipo, horario, info } = parametros;
+  27     return new Promise(async (resolve, reject) => {
+→ 28         await prisma.log.create({
+               data: {
+                 log_tipo: "INFO",
+                 log_info: "Usuario atualizado no banco: ID: 4 NOME: Nícolas",
+                 log_horario: "2023/10/28"
+                              ~~~~~~~~~~~~
+               }
+             })
+
+Invalid value for argument `log_horario`: input contains invalid characters. Expected ISO-8601 DateTime.
+28/10/2023 - 23:53:19 - Usuario atualizado no banco: ID: 4 NOME: Nícolas
+28/10/2023 - 23:53:19 - erro ao inserir log no banco: PrismaClientValidationError: 
+Invalid `prisma.log.create()` invocation in
+/Users/nicolaspimenta/Documents/GitHub/HermesAPI/src/database/controller/controllerlogs.js:28:30
+
+  25 async InsertLog(parametros) {
+  26     const { tipo, horario, info } = parametros;
+  27     return new Promise(async (resolve, reject) => {
+→ 28         await prisma.log.create({
+               data: {
+                 log_tipo: "INFO",
+                 log_info: "Usuario atualizado no banco: ID: 4 NOME: Nícolas",
+                 log_horario: "2023/10/28"
+                              ~~~~~~~~~~~~
+               }
+             })
+
+Invalid value for argument `log_horario`: input contains invalid characters. Expected ISO-8601 DateTime.
+28/10/2023 - 23:53:50 - Usuario atualizado no banco: ID: 4 NOME: Nícolas
+28/10/2023 - 23:53:50 - Log inserido no banco: ID: 1 tipo: INFO
+28/10/2023 - 23:57:54 - Usuario atualizado no banco: ID: 4 NOME: Nícolas
+28/10/2023 - 23:57:54 - Log inserido no banco: ID: 2 tipo: INFO

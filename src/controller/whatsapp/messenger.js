@@ -1,6 +1,7 @@
 const request = require('request');
 const api = require('./url.js')
 class sendMessage {
+
     enviaMensagem(numero, nome) {
         return new Promise((resolve, reject) => {
             const options = {

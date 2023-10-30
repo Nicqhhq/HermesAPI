@@ -1,0 +1,35 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model contatos {
+  id              Int     @id @default(autoincrement())
+  contato_nome    String
+  contato_email   String  @unique
+  contato_numero  String  @unique
+  contato_unidade String
+  contato_ativo   Boolean @default(true)
+}
+
+model template {
+  id                 Int     @id @default(autoincrement())
+  template_nome      String
+  template_namespace String
+  template_parametro Boolean
+  template_ativo     Boolean
+}
+
+model log {
+  id          Int      @id @default(autoincrement())
+  log_horario DateTime
+  log_info    String
+  log_tipo    String
+}

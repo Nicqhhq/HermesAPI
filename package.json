@@ -9,10 +9,16 @@
   "author": "Montekali | Nicolas Pimenta",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.5.2",
     "ascii-art": "^2.8.5",
+    "axios": "^1.6.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "graceful-fs": "^4.2.11",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.5.2"
   }
 }

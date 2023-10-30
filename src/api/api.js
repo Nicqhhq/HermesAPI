@@ -5,7 +5,6 @@ class Middleware {
         this.menssager = new Menssager();
     }
     enviaMensagem(req, res) {
-        console.log("passou no middlware")
         const corpo = req.body;
         this.menssager.enviaMensagem(corpo['numero'], corpo['nome']).then((_) => {
             console.log("passou");

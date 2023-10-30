@@ -1,0 +1,169 @@
+
+29/10/2023 - 12:49:45 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:49:45 - Log inserido no banco: ID: 3 tipo: INFO
+29/10/2023 - 12:51:19 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:51:19 - Log inserido no banco: ID: 4 tipo: INFO
+29/10/2023 - 12:51:32 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:51:32 - Log inserido no banco: ID: 5 tipo: INFO
+29/10/2023 - 12:53:31 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:53:31 - Log inserido no banco: ID: 6 tipo: INFO
+29/10/2023 - 12:53:36 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:53:36 - Log inserido no banco: ID: 7 tipo: INFO
+29/10/2023 - 12:55:09 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:55:09 - Log inserido no banco: ID: 8 tipo: INFO
+29/10/2023 - 12:55:16 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:55:16 - Log inserido no banco: ID: 9 tipo: INFO
+29/10/2023 - 12:55:49 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:55:49 - Log inserido no banco: ID: 10 tipo: INFO
+29/10/2023 - 12:55:53 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:55:53 - Log inserido no banco: ID: 11 tipo: INFO
+29/10/2023 - 12:55:56 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 12:55:56 - Log inserido no banco: ID: 12 tipo: INFO
+29/10/2023 - 13:09:50 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:09:50 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:09:50 - Log inserido no banco: ID: 13 tipo: INFO
+29/10/2023 - 13:09:50 - Log inserido no banco: ID: 14 tipo: INFO
+29/10/2023 - 13:10:13 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:10:13 - Log inserido no banco: ID: 15 tipo: INFO
+29/10/2023 - 13:13:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:13:17 - Log inserido no banco: ID: 16 tipo: INFO
+29/10/2023 - 13:13:28 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:13:28 - Log inserido no banco: ID: 17 tipo: INFO
+29/10/2023 - 13:14:26 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:14:26 - Log inserido no banco: ID: 18 tipo: INFO
+29/10/2023 - 13:14:37 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:14:37 - Log inserido no banco: ID: 19 tipo: INFO
+29/10/2023 - 13:14:43 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:14:43 - Log inserido no banco: ID: 20 tipo: INFO
+29/10/2023 - 13:15:10 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:15:10 - Log inserido no banco: ID: 21 tipo: INFO
+29/10/2023 - 13:15:12 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:15:12 - Log inserido no banco: ID: 22 tipo: INFO
+29/10/2023 - 13:15:38 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:15:38 - Log inserido no banco: ID: 23 tipo: INFO
+29/10/2023 - 13:15:42 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:15:42 - Log inserido no banco: ID: 24 tipo: INFO
+29/10/2023 - 13:16:25 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:16:25 - Log inserido no banco: ID: 25 tipo: INFO
+29/10/2023 - 13:16:35 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:16:35 - Log inserido no banco: ID: 26 tipo: INFO
+29/10/2023 - 13:17:40 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:17:40 - Log inserido no banco: ID: 27 tipo: INFO
+29/10/2023 - 13:17:43 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:17:43 - Log inserido no banco: ID: 28 tipo: INFO
+29/10/2023 - 13:17:54 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:17:54 - Log inserido no banco: ID: 29 tipo: INFO
+29/10/2023 - 13:17:56 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:17:56 - Log inserido no banco: ID: 30 tipo: INFO
+29/10/2023 - 13:18:38 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:18:38 - Log inserido no banco: ID: 31 tipo: INFO
+29/10/2023 - 13:18:40 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:18:40 - Log inserido no banco: ID: 32 tipo: INFO
+29/10/2023 - 13:25:15 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:15 - Log inserido no banco: ID: 33 tipo: INFO
+29/10/2023 - 13:25:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:17 - Log inserido no banco: ID: 34 tipo: INFO
+29/10/2023 - 13:25:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:17 - Log inserido no banco: ID: 35 tipo: INFO
+29/10/2023 - 13:25:18 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:18 - Log inserido no banco: ID: 36 tipo: INFO
+29/10/2023 - 13:25:28 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:28 - Log inserido no banco: ID: 37 tipo: INFO
+29/10/2023 - 13:25:29 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:25:29 - Log inserido no banco: ID: 38 tipo: INFO
+29/10/2023 - 13:26:50 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:26:50 - Log inserido no banco: ID: 39 tipo: INFO
+29/10/2023 - 13:27:02 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 13:27:02 - Log inserido no banco: ID: 40 tipo: INFO
+29/10/2023 - 17:22:03 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:22:03 - Log inserido no banco: ID: 41 tipo: INFO
+29/10/2023 - 17:23:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:23:17 - Log inserido no banco: ID: 42 tipo: INFO
+29/10/2023 - 17:28:47 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:28:47 - Log inserido no banco: ID: 43 tipo: INFO
+29/10/2023 - 17:28:55 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:28:55 - Log inserido no banco: ID: 44 tipo: INFO
+29/10/2023 - 17:29:03 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:29:03 - Log inserido no banco: ID: 45 tipo: INFO
+29/10/2023 - 17:29:25 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:29:25 - Log inserido no banco: ID: 46 tipo: INFO
+29/10/2023 - 17:29:36 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:29:36 - Log inserido no banco: ID: 47 tipo: INFO
+29/10/2023 - 17:29:56 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:29:56 - Log inserido no banco: ID: 48 tipo: INFO
+29/10/2023 - 17:30:04 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:30:04 - Log inserido no banco: ID: 49 tipo: INFO
+29/10/2023 - 17:30:28 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:30:28 - Log inserido no banco: ID: 50 tipo: INFO
+29/10/2023 - 17:30:57 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:30:58 - Log inserido no banco: ID: 51 tipo: INFO
+29/10/2023 - 17:32:59 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:32:59 - Log inserido no banco: ID: 52 tipo: INFO
+29/10/2023 - 17:36:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:36:17 - Log inserido no banco: ID: 53 tipo: INFO
+29/10/2023 - 17:44:38 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:44:38 - Log inserido no banco: ID: 54 tipo: INFO
+29/10/2023 - 17:44:39 - Log inserido no banco: ID: 55 tipo: INFO
+29/10/2023 - 17:44:58 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:44:58 - Log inserido no banco: ID: 56 tipo: INFO
+29/10/2023 - 17:44:58 - Log inserido no banco: ID: 57 tipo: ERRO
+29/10/2023 - 17:46:23 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:46:23 - Log inserido no banco: ID: 58 tipo: INFO
+29/10/2023 - 17:46:23 - Log inserido no banco: ID: 59 tipo: ERRO
+29/10/2023 - 17:46:33 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:46:33 - Log inserido no banco: ID: 60 tipo: INFO
+29/10/2023 - 17:46:35 - Log inserido no banco: ID: 61 tipo: INFO
+29/10/2023 - 17:48:11 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:48:11 - Log inserido no banco: ID: 62 tipo: INFO
+29/10/2023 - 17:48:13 - Log inserido no banco: ID: 63 tipo: INFO
+29/10/2023 - 17:49:13 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:49:13 - Log inserido no banco: ID: 64 tipo: INFO
+29/10/2023 - 17:49:14 - Log inserido no banco: ID: 65 tipo: INFO
+29/10/2023 - 17:49:23 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:49:23 - Log inserido no banco: ID: 66 tipo: INFO
+29/10/2023 - 17:49:23 - Log inserido no banco: ID: 67 tipo: ERRO
+29/10/2023 - 17:50:50 - Log inserido no banco: ID: 68 tipo: ERRO
+29/10/2023 - 17:51:01 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:51:01 - Log inserido no banco: ID: 69 tipo: INFO
+29/10/2023 - 17:51:02 - Log inserido no banco: ID: 70 tipo: INFO
+29/10/2023 - 17:51:33 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:51:33 - Log inserido no banco: ID: 71 tipo: INFO
+29/10/2023 - 17:51:34 - Log inserido no banco: ID: 72 tipo: INFO
+29/10/2023 - 17:52:20 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:52:20 - Log inserido no banco: ID: 73 tipo: INFO
+29/10/2023 - 17:52:22 - Log inserido no banco: ID: 74 tipo: INFO
+29/10/2023 - 17:52:43 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:52:43 - Log inserido no banco: ID: 75 tipo: INFO
+29/10/2023 - 17:52:45 - Log inserido no banco: ID: 76 tipo: INFO
+29/10/2023 - 17:52:53 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:52:53 - Log inserido no banco: ID: 77 tipo: INFO
+29/10/2023 - 17:52:54 - Log inserido no banco: ID: 78 tipo: INFO
+29/10/2023 - 17:53:01 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:53:01 - Log inserido no banco: ID: 79 tipo: INFO
+29/10/2023 - 17:53:02 - Log inserido no banco: ID: 80 tipo: INFO
+29/10/2023 - 17:53:17 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:53:17 - Log inserido no banco: ID: 81 tipo: INFO
+29/10/2023 - 17:53:18 - Log inserido no banco: ID: 82 tipo: INFO
+29/10/2023 - 17:53:25 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:53:25 - Log inserido no banco: ID: 83 tipo: INFO
+29/10/2023 - 17:53:27 - Log inserido no banco: ID: 84 tipo: INFO
+29/10/2023 - 17:53:35 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:53:36 - Log inserido no banco: ID: 85 tipo: INFO
+29/10/2023 - 17:53:37 - Log inserido no banco: ID: 86 tipo: INFO
+29/10/2023 - 17:53:44 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:53:45 - Log inserido no banco: ID: 87 tipo: INFO
+29/10/2023 - 17:53:46 - Log inserido no banco: ID: 88 tipo: INFO
+29/10/2023 - 17:54:23 - Usuario Consultado: ID: undefined Nome:undefined
+29/10/2023 - 17:54:23 - Log inserido no banco: ID: 89 tipo: INFO
+29/10/2023 - 17:54:24 - Log inserido no banco: ID: 90 tipo: INFO
+29/10/2023 - 17:57:27 - Usuario Consultado: ID: 2 Nome:Nícolas
+29/10/2023 - 17:57:27 - Log inserido no banco: ID: 91 tipo: INFO
+29/10/2023 - 17:57:28 - Log inserido no banco: ID: 92 tipo: INFO
+29/10/2023 - 17:58:12 - Usuario Consultado: ID: 2 Nome:Nícolas
+29/10/2023 - 17:58:13 - Log inserido no banco: ID: 93 tipo: INFO
+29/10/2023 - 17:58:14 - Log inserido no banco: ID: 94 tipo: INFO
+29/10/2023 - 17:59:04 - Usuario Consultado: ID: 2 Nome:Nícolas
+29/10/2023 - 17:59:04 - Log inserido no banco: ID: 95 tipo: INFO
+29/10/2023 - 17:59:05 - Log inserido no banco: ID: 96 tipo: INFO
+29/10/2023 - 17:59:53 - Log inserido no banco: ID: 97 tipo: ERRO
+29/10/2023 - 18:00:33 - Log inserido no banco: ID: 98 tipo: ERRO
